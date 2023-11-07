@@ -13,6 +13,7 @@ We will explore the dataset, train a collection of classifiers, and compare mode
 
 
 
-[Video Narration](https://github.com/wahargis/DTSA-5509_Final_Project/blob/main/DTSA_5509-Screen_Record_Narration_Project_Summary_Compressed_h264.mp4) (download using arrow button on top right)
+~~[Video Narration](https://github.com/wahargis/DTSA-5509_Final_Project/blob/main/DTSA_5509-Screen_Record_Narration_Project_Summary_Compressed_h264.mp4) (download using arrow button on top right)~~ 
+Video narattion is available but recording quality is poor, it is recommended to review the notebook which is well-commented.
 
 [Project Notebook](https://github.com/wahargis/DTSA-5509_Final_Project/blob/main/DTSA_5509-Supervised_Learning_Final_Project-UCI_Heart_Disease_Classifier-v2-no_cuML.ipynb)
